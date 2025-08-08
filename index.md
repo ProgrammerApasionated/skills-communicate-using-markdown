@@ -6,3 +6,7 @@ Just trying to lear how to put a h1 header
 ``` python
 print ("Hello World!!!")
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
